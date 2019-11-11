@@ -7,3 +7,4 @@ y<-runif(20)
 x<-seq(1,20)
 plot(y~x)
 
+# Hey there! ;) I'm just adding some stuff here. 
